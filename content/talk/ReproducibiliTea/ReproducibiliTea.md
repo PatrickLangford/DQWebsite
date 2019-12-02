@@ -16,7 +16,7 @@ focal_point: Right
 links:
   location: University College London Psychology Department
 math: true
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2019-11-13"
 slides: example
 summary: A summary of False Positive Psychology (Simmons, Nelson, & Simonsohn, 2011) and exploration of its significance for the field.
 tags: []
