@@ -20,7 +20,7 @@ publishDate: "2019-11-13"
 slides: example
 summary: A summary of False Positive Psychology (Simmons, Nelson, & Simonsohn, 2011) and exploration of its significance for the field.
 tags: []
-title: False-Positive Psychology.
+title: "False-Positive Psychology"
 url_code: ""
 url_pdf: ""
 url_slides: ""

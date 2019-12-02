@@ -28,7 +28,7 @@ slides: example
 summary: 
 tags:
   - Source Themes
-title: UK Reproducibility Network Primer, Data Sharing.
+title: "UK Reproducibility Network Primer: Data Sharing"
 url_code: '#'
 url_dataset: '#'
 url_pdf: https://www.bristol.ac.uk/media-library/sites/expsych/documents/ukrn/UKRN_Primer_Data_Sharing.pdf
