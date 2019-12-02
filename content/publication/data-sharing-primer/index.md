@@ -16,20 +16,20 @@ image:
   focal_point: ""
   preview_only: false
 links:
-- name: Custom Link
+- name: All primers
   url: https://www.bristol.ac.uk/psychology/research/ukrn/about/resources/
-projects:
-- internal-project
+#projects:
+#- internal-project
 publication: ""
 publication_short: ""
 publication_types:
 - "3"
 publishDate: "2019-11-28"
-slides: example
+#slides: example
 summary: The how and why of data sharing.
 tags:
 - Source Themes
-title: UK Reproducibility Network Primer: Data Sharing
+title: UK Reproducibility Network Primer (Data Sharing)
 #url_code: '#'
 #url_dataset: '#'
 url_pdf: https://www.bristol.ac.uk/media-library/sites/expsych/documents/ukrn/UKRN_Primer_Data_Sharing.pdf
