@@ -1,17 +1,17 @@
 ---
   abstract: Data sharing is a vital part of engaging in open science. This short primer tells you what it is, as well as how and why you should share your data.
 authors:
-  - admin
--  John Towse
+- John Towse
 - Sally Rumsey
 - Nicholas Owen
+- admin
 - Matt Jaquiery
 - Cylcia Bolibaugh
 date: "2019-11-28"
 doi: ""
 featured: true
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  caption: 'Image credit: [**Unsplash**](https://www.bristol.ac.uk/psychology/research/ukrn/)'
 focal_point: ""
 preview_only: false
 links:
