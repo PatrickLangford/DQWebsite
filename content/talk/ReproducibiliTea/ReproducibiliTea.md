@@ -1,5 +1,8 @@
 ---
-  abstract: I summarised the seminal paper 'False-Positive Psychology' by Simmons, Nelson, & Simonsohn for the journal club ReproducibiliTea. We then discussed how the paper affected our understanding of psychology, statitics, and open science, as well as thinking about how to improve scientific practices in the future.
+abstract: I summarised the seminal paper 'False-Positive Psychology' by Simmons,
+  Nelson, & Simonsohn for the journal club ReproducibiliTea. We then discussed how the
+  paper affected our understanding of psychology, statitics, and open science, as well
+  as thinking about how to improve scientific practices in the future.
 address:
   city: London
   country: United Kingdom
