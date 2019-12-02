@@ -19,7 +19,7 @@ image:
 location: University College London Psychology Department
 math: true
 #projects:
-- internal-project
+#- internal-project
 publishDate: "2019-11-13"
 #slides: example
 summary: A summary of False Positive Psychology (Simmons, Nelson, & Simonsohn, 2011) and exploration of its significance for the field.
