@@ -1,8 +1,7 @@
 ---
 authors:
 - admin
-bio: My research interests include distributed robotics, mobile computing and programmable
-  matter.
+bio: I love both the practical side of being an Educational Psychologist and the theory and praxis of research.
 education:
   courses:
   - course: DEdPsy Professional Educational, Child and Adolescent Psychology
