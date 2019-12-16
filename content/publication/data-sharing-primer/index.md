@@ -12,7 +12,7 @@ date: "2019-11-28"
 doi: ""
 featured: false
 image:
-  caption: 'Image credit: [**Unsplash**](https://www.bristol.ac.uk/psychology/research/ukrn/)'
+  caption: '(https://www.bristol.ac.uk/psychology/research/ukrn/)'
   focal_point: ""
   preview_only: false
 links:
