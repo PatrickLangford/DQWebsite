@@ -14,7 +14,7 @@ event: ReproducibiliTea
 event_url: https://reproducibilitea.org/
 featured: false
 image:
-  caption: 'Image credit: [**Unsplash**](https://soundcloud.com/reproducibilitea)'
+  caption: '(https://soundcloud.com/reproducibilitea)'
   focal_point: Right
 location: University College London Psychology Department
 math: true
@@ -27,6 +27,6 @@ tags: []
 title: False-Positive Psychology
 #url_code: ""
 url_pdf: ""
-url_slides: "https://osf.io/krzad/"
+url_slides: "https://osf.io/kdsb3/"
 #url_video: ""
 ---
