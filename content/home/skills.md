@@ -17,15 +17,13 @@ subtitle = ""
 [[feature]]
   icon = "r-project"
   icon_pack = "fab"
-  name = "Qualitative & quantitative research"
-# description = "90%"
-  
+  name = "Quantitative & qualitative research"
+
 [[feature]]
   icon = "comments"
   icon_pack = "fas"
-  name = "Delivering training"
-# description = "100%"  
-  
+  name = "Psychologically informed training"
+
 #[[feature]]
 #  icon = "pen"
 #  icon_pack = "fas"
