@@ -26,8 +26,8 @@ subtitle = "Workshops and training I have delivered at different levels (classro
     tag = "*"
   
   [[content.filter_button]]
-    name = "Deep Learning"
-    tag = "Deep Learning"
+    name = "Classroom management"
+    tag = "Classroom management"
   
   [[content.filter_button]]
     name = "Other"
