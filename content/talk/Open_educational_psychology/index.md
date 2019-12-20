@@ -1,8 +1,8 @@
 ---
 abstract: My talk at the 2020 DECP Trainee Educational Psychology Conference. I defined open science, then covered some of the main ideas within it, as well as the pros and cons. Relevance to qualitative research was highlighted. An emphasis was placed on how it can improve people's ability to produce and critically analyse research.
-address:
-  city: Northampton
-  country: United Kingdom
+#address:
+#  city: Northampton
+#  country: United Kingdom
 all_day: false
 authors: []
 date: "2020-01-09T09:00:00"
