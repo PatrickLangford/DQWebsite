@@ -14,7 +14,7 @@ event: BPS DECP 2020
 event_url: https://www.bps.org.uk/events/decp-annual-conference-2020
 featured: false
 image:
-  caption: ''
+  caption: 'Image credit: (https://allevents.in/northampton/decp-2020-annual-professional-conference/200018167820011)'
   focal_point: Right
 location: DECP Conference
 math: true
