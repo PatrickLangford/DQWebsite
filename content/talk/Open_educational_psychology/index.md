@@ -5,8 +5,8 @@ abstract: My talk at the 2020 DECP Trainee Educational Psychology Conference. I 
 #  country: United Kingdom
 all_day: false
 authors: []
-date: "2020-01-09T09:00:00"
-date_end: "2020-01-09T10:00:00"
+date: "2020-01-09T10:15:00"
+date_end: "2020-01-09T11:15:00"
 event: BPS DECP 2020
 event_url: https://www.bps.org.uk/events/decp-annual-conference-2020
 featured: false

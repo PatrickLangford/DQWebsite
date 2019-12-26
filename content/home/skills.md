@@ -33,5 +33,5 @@ subtitle = ""
 [[feature]]
   icon = "git-alt"
   icon_pack = "fab"
-  name = "Version control"
+  name = "Project management"
 +++
