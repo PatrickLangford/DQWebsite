@@ -8,22 +8,22 @@ address:
   country: United Kingdom
 all_day: false
 authors: []
-date: "2020-01-09T10:15:00"
-date_end: "2020-01-09T11:15:00"
+date: "2019-01-09T10:15:00"
+date_end: "2019-01-09T11:15:00"
 event: BPS DECP 2020
 event_url: https://www.bps.org.uk/events/decp-annual-conference-2020
 featured: false
 image:
-  caption: 'Image credit: (https://allevents.in/northampton/decp-2020-annual-professional-conference/200018167820011)'
+  caption: '(https://www.facebook.com/bpsdecp/)'
   focal_point: Right
 location: DECP Conference
 math: true
 #projects:
 #- internal-project
-publishDate: "2020-01-09"
+publishDate: "2019-01-09"
 #slides: example
 summary: An introduction to open science practices in relation to EP work and qualitative research.
-tags: [Open science]
+tags: []
 title: Open Educational Psychology
 #url_code: ""
 url_pdf: ""
