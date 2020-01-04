@@ -20,10 +20,10 @@ location: DECP Conference
 math: true
 #projects:
 #- internal-project
-publishDate: "2019-01-09"
+publishDate: "2020-01-01"
 #slides: example
 summary: An introduction to open science practices in relation to EP work and qualitative research.
-tags: []
+tags: [Open science]
 title: Open Educational Psychology
 #url_code: ""
 url_pdf: ""
