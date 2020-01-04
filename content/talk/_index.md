@@ -2,6 +2,6 @@
 header:
   caption: ""
   image: ""
-title: Recent & Upcoming Talks and Presentations
+title: Recent Talks and Presentations
 view: 5
 ---
