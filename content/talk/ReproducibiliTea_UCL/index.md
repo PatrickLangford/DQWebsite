@@ -14,7 +14,7 @@ event: ReproducibiliTea
 event_url: https://reproducibilitea.org/
 featured: false
 image:
-  caption: '(https://soundcloud.com/reproducibilitea)'
+  caption: 
   focal_point: Right
 location: University College London Psychology Department
 math: true
