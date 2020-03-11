@@ -21,7 +21,7 @@ math: true
 #- internal-project
 publishDate: "2020-03-01"
 #slides: example
-summary: A summary of the pros and cons of preregistration and Registered Reports.
+summary: My talk at the Cambridge ReproducibiliTea meeting.
 tags: [Metascience]
 title: A critical summary of preregistration and Registered Reports
 #url_code: ""
