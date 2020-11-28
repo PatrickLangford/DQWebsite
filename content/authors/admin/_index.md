@@ -18,8 +18,8 @@ education:
     year: 2013 
 email: "pjclangford@gmail.com"
 interests:
-- Open Science
-- Philosophy of Science
+- Open research
+- Philosophy of science
 - Metascience
 - Science communication
 name: Patrick Langford
@@ -49,4 +49,4 @@ user_groups:
 - Visitors
 ---
 
-I am a 2nd year Trainee Educational Psychology student at the Institute of Education, UCL. I have worked as a Trainee Educational Psychologist (TEP) with Enfield and Waltham Forest Educational Psychology Services (EPS). My first year project is on one of the main models of service delivery: consultation. I am exploring what happens during an intial consultation between a teacher and an Educational Psychologist (EP) and then using this to develop a theoretical framework. This will form the basis for a long-term evaluation tool of consultation.
+I am a 3rd year Trainee Educational Psychology student at the Institute of Education, UCL. I have worked as a Trainee Educational Psychologist (TEP) with Enfield and Waltham Forest Educational Psychology Services (EPS). I have worked with children and young people aged from 2-18 across a wide range of settings, including Pupil Referral Units. My thesis aims to explore what makes consultation effective. Using a mixed methods approach, including interview and observations, the core conditions and features of consultation which lead to real world change will be analysed. 
