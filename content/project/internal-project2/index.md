@@ -12,8 +12,8 @@ image:
 #slides: example
 summary: Training for schools to help support students and staff back into school after an extended break, such as after the COVID-19 lockdown.
 tags:
-- Wellbeing
-title: Whole school wellbeing
+- Well-being
+title: Whole school well-being
 #url_code: ""
 #url_pdf: ""
 #url_slides: ""
