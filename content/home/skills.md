@@ -41,12 +41,12 @@ subtitle = ""
 # description = "10%"
 
 [[feature]]
-  icon = "git-alt"
-  icon_pack = "fab"
-  name = "Project management"
-  
-[[feature]]
   icon = "chart-line"
   icon_pack = "fab"
   name = "Statistics"
+
+[[feature]]
+  icon = "git-alt"
+  icon_pack = "fab"
+  name = "Project management"
 +++
