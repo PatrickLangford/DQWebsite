@@ -41,8 +41,8 @@ subtitle = ""
 # description = "10%"
 
 [[feature]]
-  icon = "chart-bar"
-  icon_pack = "fab"
+  icon = "chart-line"
+  icon_pack = "fas"
   name = "Statistics"
 
 [[feature]]
