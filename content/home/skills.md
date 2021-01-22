@@ -15,20 +15,35 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
 [[feature]]
+  icon = "comments"
+  icon_pack = "fas"
+  name = "Consultation"
+  
+[[feature]]
+  icon = "shapes"
+  icon_pack = "fas"
+  name = "Assessment"
+  
+[[feature]]
+  icon = "comment-alt"
+  icon_pack = "fas"
+  name = "Psychologically informed training"
+
+[[feature]]
   icon = "r-project"
   icon_pack = "fab"
   name = "Quantitative & qualitative research"
-
-[[feature]]
-  icon = "comments"
-  icon_pack = "fas"
-  name = "Psychologically informed training"
 
 #[[feature]]
 #  icon = "pen"
 #  icon_pack = "fas"
 #  name = "Writing"
 # description = "10%"
+
+[[feature]]
+  icon = "chart-line"
+  icon_pack = "fas"
+  name = "Statistics"
 
 [[feature]]
   icon = "git-alt"
