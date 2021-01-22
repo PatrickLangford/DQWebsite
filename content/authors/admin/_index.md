@@ -28,6 +28,9 @@ organizations:
   url: ""
 role: Trainee Educational Psychologist
 social:
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/PsyBrief
 - icon: envelope
   icon_pack: fas
   link: '#contact'
@@ -49,4 +52,4 @@ user_groups:
 - Visitors
 ---
 
-TEST I am a 3rd year Trainee Educational Psychology student at the Institute of Education, UCL. I am currently based with the Waltham Forest Educational Psychology Services (EPS). I have worked with children and young people aged from 2-18-years-old across a wide range of settings, including Pupil Referral Units. My thesis aims to explore what makes consultation effective. Using a mixed methods approach (including interview and observations) the core conditions and features of consultation, which lead to real world change, will be identified. I have experience as a reproducibility checker for the journal Meta-Psychology.
+I am a 3rd year Trainee Educational Psychology student at the Institute of Education, UCL. I am currently based with the Waltham Forest Educational Psychology Services (EPS). I have worked with children and young people aged from 2-18-years-old across a wide range of settings, including Pupil Referral Units. My thesis aims to explore what makes consultation effective. Using a mixed methods approach (including interview and observations) the core conditions and features of consultation, which lead to real world change, will be identified. I have experience as a reproducibility checker for the journal Meta-Psychology.
