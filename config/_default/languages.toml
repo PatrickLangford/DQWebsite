@@ -9,7 +9,7 @@
 #  title = "English site"
 
 # Uncomment the lines below to configure your website in a second language.
-[es]
+# [es]
 #  languageCode = "es"
 #  contentDir = "content/es"
 #  title = "Sitio en español"
