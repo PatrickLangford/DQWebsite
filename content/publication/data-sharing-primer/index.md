@@ -12,12 +12,12 @@ date: "2019-11-28"
 doi: ""
 featured: false
 image:
-  caption: '(https://www.bristol.ac.uk/psychology/research/ukrn/)'
+  caption: '(UKRN primers)'
   focal_point: ""
   preview_only: false
 links:
 - name: All primers
-  url: https://www.bristol.ac.uk/psychology/research/ukrn/about/resources/
+  url: https://www.ukrn.org/primers/
 #projects:
 #- internal-project
 publication: ""
@@ -32,7 +32,7 @@ tags:
 title: UK Reproducibility Network Primer (Data Sharing)
 #url_code: '#'
 #url_dataset: '#'
-url_pdf: https://www.bristol.ac.uk/media-library/sites/expsych/documents/ukrn/UKRN_Primer_Data_Sharing.pdf
+url_pdf: https://osf.io/wp4zu/
 #url_poster: '#'
 #url_project: ""
 #url_slides: ""
