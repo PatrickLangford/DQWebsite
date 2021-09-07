@@ -1,6 +1,9 @@
 ---
-abstract: Consultation is an integral part of many EP’s work. However, there is a large range of ways in which it is used and understood. This makes evaluating its efficacy difficult. My research therefore sought to identify what the effective features of consultation are by linking observed features to changes in agreed outcomes for children and young people. Interviews with EPs and observations of consultations were analysed and the features which were more likely to lead to change were identified.
-#authors:
+abstract: Consultation is an integral part of many EP’s work. However, there is a large range of ways in which it is used and 
+  understood. This makes evaluating its efficacy difficult. My research therefore sought to identify what the effective features of 
+  consultation are by linking observed features to changes in agreed outcomes for children and young people. Interviews with EPs and 
+  observations of consultations were analysed and the features which were more likely to lead to change were identified.
+authors:
 - admin
 date: "2021-05-28"
 #doi: ""
