@@ -9,7 +9,7 @@ date: "2021-05-28"
 #doi: ""
 featured: false
 image:
-  caption: 'Image credit: #[**Unsplash**](https://unsplash.com/photos/PTRzqc_h1r4)'
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/PTRzqc_h1r4)'
  focal_point: ""
   preview_only: false
 #projects: []
