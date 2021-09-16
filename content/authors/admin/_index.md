@@ -24,9 +24,9 @@ interests:
 - Science communication
 name: Patrick Langford
 organizations:
-- name: Institute of Education, UCL
+- name: Waltham Forest Educational Psychology Service
   url: ""
-role: Trainee Educational Psychologist
+role: Educational Psychologist
 social:
 - icon: twitter
   icon_pack: fab
