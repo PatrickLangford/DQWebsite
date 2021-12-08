@@ -24,8 +24,8 @@ summary: My thesis on the effective features of consultation
 #- Source Themes
 title: What Are The Effective Features Of Consultation? A Mixed Methods Analysis
 #url_code: ""
-#url_dataset: ""
-url_pdf: https://osf.io/x38se/
+#url_dataset: "https://osf.io/x38se/"
+url_pdf: "https://thesiscommons.org/kzuan"
 #url_poster: ""
 #url_project: ""
 #url_slides: ""
