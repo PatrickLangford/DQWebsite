@@ -25,7 +25,7 @@ date_format = "Jan 2006"
   date_start = "2022-02-10"
   date_end = ""
   description = """
-  Responsibilities include:
+  Responsibilities =
   
   * Coordinating the review process for new articles from initial submission to publication
   * Managing colleague workloads
@@ -40,7 +40,7 @@ date_format = "Jan 2006"
   date_start = "2021-09-01"
   date_end = ""
   description = """
-  Responsibilities include:
+  Responsibilities =
   
   * Consultations with parents and school staff
   * Observations of children in the classroom
@@ -61,7 +61,7 @@ date_format = "Jan 2006"
   date_start = "2019-04-01"
   date_end = "2021-07-31"
   description = """
-  Responsibilities include:
+  Responsibilities =
   
   * Consultations with parents and school staff
   * Observations of children in the classroom
@@ -80,7 +80,7 @@ date_format = "Jan 2006"
   date_start = "2016-10-01"
   date_end = "2017-03-18"
   description = """
-  Responsibilities include:
+  Responsibilities =
   
   * 1:1 support
   * Supporting young people in the community
@@ -94,7 +94,7 @@ date_format = "Jan 2006"
   date_start = "2014-05-19"
   date_end = "2016-08-31"
   description = """
-  Responsibilities include:
+  Responsibilities =
   
   * Teacher of A-level Psychology and Health & Social Care
   * Form tutor
