@@ -18,6 +18,61 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
+  title = "Editor"
+  company = "Open Journal of Educational Psychology"
+  company_url = ""
+  location = ""
+  date_start = "2022-02-10"
+  date_end = ""
+  description = """
+  Responsibilities include:
+  
+  * Coordinating the review process for new articles from initial submission to publication
+  * Managing colleague workloads
+  * Organising and leading team meetings
+  * Maintenance and development of the journal's online presence
+
+[[experience]]
+  title = "Educational Psychologist (EP)"
+  company = "Waltham Forest Council"
+  company_url = ""
+  location = "London Borough of Waltham Forest"
+  date_start = "2021-09-01"
+  date_end = ""
+  description = """
+  Responsibilities include:
+  
+  * Consultations with parents and school staff
+  * Observations of children in the classroom
+  * 1:1 work with children, including using dynamic and standardised assessments
+  * Writing reports
+  * Delivering ELSA training
+  * Attending Team Around the Family/Child (TAF/C) meetings
+  * Delivering presentations to students
+  * Participating in the anti-racism working group, including writing the anti-racism statement
+  * Providing support via the parent drop-in service
+  """
+
+[[experience]]
+  title = "Trainee Educational Psychologist (TEP)"
+  company = "Waltham Forest Council"
+  company_url = ""
+  location = "London Borough of Waltham Forest"
+  date_start = "2019-04-01"
+  date_end = "2021-07-31"
+  description = """
+  Responsibilities include:
+  
+  * Consultations with parents and school staff
+  * Observations of children in the classroom
+  * 1:1 work with children, including using dynamic and standardised assessments
+  * Writing reports
+  * Attending training sessions
+  * Shadowing colleagues
+  * Attending Team Around the Family/Child (TAF/C) meetings
+  """
+
+[[experience]]
   title = "Learning Support Assistant (LSA)"
   company = "Ty Coryton School"
   company_url = ""

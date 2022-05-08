@@ -1,7 +1,7 @@
 ---
 authors:
 - admin
-bio: I love both the practical side of being an Educational Psychologist and the theory and praxis of research.
+bio: I love both the practical side of being an Educational Psychologist and the designing and conduting research.
 education:
   courses:
   - course: DEdPsy Professional Educational, Child and Adolescent Psychology
@@ -52,4 +52,4 @@ user_groups:
 - Visitors
 ---
 
-I am an Educational Psychologist working in Waltham Forest. I work with children and young people aged from 2-18-years-old across a wide range of settings. I also run the Emotional Literacy Support Assistant (ELSA) Programme in my borough. My thesis aimed to explore what makes consultation effective. Using a mixed methods approach (including interview and observations) the core features of consultation, which lead to real world change for children and young people, were identified. I have experience as a reproducibility checker for the journal Meta-Psychology. I also curate the scientific blog www.psychbrief.com where I explore and summarise psychology, statistics, and meta-science.
+I am an Educational Psychologist working in Waltham Forest. I work with children and young people aged from 2-18-years-old across a wide range of settings. I run the Emotional Literacy Support Assistant (ELSA) programme in my borough. I am the lead Editor of the journal 'Open Journal of Educational Psychology'. My thesis aimed to explore what makes consultation effective. Using a mixed methods approach (including interview and observations) the core features of consultation, which lead to real world change for children and young people, were identified. I have experience as a reproducibility checker for the journal Meta-Psychology. I also curate the scientific blog www.psychbrief.com where I explore and summarise psychology, statistics, and meta-science.
