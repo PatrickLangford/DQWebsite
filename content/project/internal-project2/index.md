@@ -10,12 +10,13 @@ image:
 #  name: Follow
 #  url: https://twitter.com/georgecushen
 #slides: example
-summary: Training for schools to help support students and staff back into school after an extended break, such as after the COVID-19 lockdown.
+summary: Training for schools to help staff support children with Autism Spectrum Condition (ASC).
 tags:
-- Well-being
-title: Whole school well-being
+- Neurodiversity
+- Inclusion
+title: Supporting autistic children in the classroom
 #url_code: ""
-#url_pdf: ""
+url_pdf: "https://osf.io/dgmzp/"
 #url_slides: ""
 #url_video: ""
 ---
