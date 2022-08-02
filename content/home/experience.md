@@ -40,7 +40,7 @@ date_format = "Jan 2006"
   location = "London Borough of Waltham Forest"
   date_start = "2021-09-01"
   date_end = ""
-  description = ""
+  description = """
   Responsibilities =
   
   * Consultations with parents and school staff
