@@ -31,7 +31,8 @@ date_format = "Jan 2006"
   * Managing colleague workloads
   * Organising and leading team meetings
   * Maintenance and development of the journal's online presence
-
+  """
+  
 [[experience]]
   title = "Educational Psychologist (EP)"
   company = "Waltham Forest Council"
